@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoutonRedstone
-- 👀 I’m interested in videogame creation
-- 🌱 I’m currently learning noise procedural generation
+- 👀 I’m interested in videogame creation and atrificial intelligence
+- 🌱 I’m currently learning kotlin devlopment with android studio
 - 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me : I don't want to get contacted
 
