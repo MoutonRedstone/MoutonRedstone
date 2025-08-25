@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoutonRedstone
 - 👀 I’m interested in videogame creation and artificial intelligence
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c
 - 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me : mouton.redstone@gmail.com
 
